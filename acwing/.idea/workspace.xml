@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="acwing" targetName="1088" />
+      <config projectName="acwing" targetName="acwing" />
+      <config projectName="acwing" targetName="1083" />
+      <config projectName="acwing" targetName="1084" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0df9424-b8c0-4099-a68b-c70e8a078a31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2gwT6ziVEKd4Zn6fyx07cbBcMej" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.1088">
+    <configuration name="1083" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="1083" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="1083">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1084" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="1084" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="1084">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1088" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="1088" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="1088">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acwing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="acwing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="acwing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.1083" />
+      <item itemvalue="CMake Application.1084" />
+      <item itemvalue="CMake Application.1088" />
+      <item itemvalue="CMake Application.acwing" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0df9424-b8c0-4099-a68b-c70e8a078a31" name="Default Changelist" comment="" />
+      <created>1716607468077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716607468077</updated>
+      <workItem from="1716607471496" duration="3529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1789" y="439" key="#xdebugger.XInspectDialog" timestamp="1716612378918">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state x="1789" y="439" key="#xdebugger.XInspectDialog/0.25.2560.1315@0.25.2560.1315" timestamp="1716612378918" />
+    <state width="1306" height="372" key="GridCell.Tab.0.bottom" timestamp="1716612487257">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="372" key="GridCell.Tab.0.bottom/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487257" />
+    <state width="1306" height="372" key="GridCell.Tab.0.center" timestamp="1716612487257">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="372" key="GridCell.Tab.0.center/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487257" />
+    <state width="1306" height="372" key="GridCell.Tab.0.left" timestamp="1716612487257">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="372" key="GridCell.Tab.0.left/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487257" />
+    <state width="1306" height="372" key="GridCell.Tab.0.right" timestamp="1716612487257">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="372" key="GridCell.Tab.0.right/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487257" />
+    <state width="1306" height="458" key="GridCell.Tab.1.bottom" timestamp="1716612487252">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="458" key="GridCell.Tab.1.bottom/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487252" />
+    <state width="1306" height="458" key="GridCell.Tab.1.center" timestamp="1716612487252">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="458" key="GridCell.Tab.1.center/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487252" />
+    <state width="1306" height="458" key="GridCell.Tab.1.left" timestamp="1716612487252">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="458" key="GridCell.Tab.1.left/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487252" />
+    <state width="1306" height="458" key="GridCell.Tab.1.right" timestamp="1716612487252">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state width="1306" height="458" key="GridCell.Tab.1.right/0.25.2560.1315@0.25.2560.1315" timestamp="1716612487252" />
+    <state x="1554" y="337" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1716611924881">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state x="1554" y="337" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.2560.1315@0.25.2560.1315" timestamp="1716611924881" />
+    <state x="1551" y="324" width="670" height="676" key="search.everywhere.popup" timestamp="1716611455126">
+      <screen x="0" y="25" width="2560" height="1315" />
+    </state>
+    <state x="1551" y="324" width="670" height="676" key="search.everywhere.popup/0.25.2560.1315@0.25.2560.1315" timestamp="1716611455126" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/1083.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/1088.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="rem" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

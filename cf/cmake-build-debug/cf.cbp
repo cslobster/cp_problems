@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cf"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cf">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/cf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 cf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cf/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/cf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 cf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1926A">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1926A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1926A"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1926A/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1926A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1926A/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1926B">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1926B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1926B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1926B/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1926B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1926B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1926C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1926C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1926C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1926C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1926C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1926C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950A">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950A"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950A/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950A/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950B">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950B/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1950D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1950D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1950D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="453B">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/453B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 453B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="453B/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/453B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 453B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1418C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1418C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1418C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1418C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1418C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1418C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1082E">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1082E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1082E"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1082E/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1082E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1082E/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="919D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/919D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 919D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="919D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/919D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 919D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="510C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/510C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 510C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="510C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/510C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 510C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1385E">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1385E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1385E"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1385E/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1385E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1385E/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1627E">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1627E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1627E"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1627E/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1627E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1627E/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1627E_2.cpp">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1627E_2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1627E_2.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1627E_2.cpp/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1627E_2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1627E_2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1627E_3.cpp">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1627E_3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1627E_3.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1627E_3.cpp/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1627E_3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1627E_3.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="472D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/472D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 472D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="472D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/472D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 472D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1513D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1513D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1513D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1513D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1513D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1513D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="101102D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/101102D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 101102D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="101102D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/101102D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 101102D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="837D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/837D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 837D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="837D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/837D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 837D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995A">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995A"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995A/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995A/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995B1">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995B1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995B1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995B1/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995B1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995B1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995B1_2">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995B1_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995B1_2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995B1_2/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995B1_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995B1_2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1995D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1995D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1995D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="687C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/687C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 687C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="687C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/687C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 687C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1051F">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1051F" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1051F"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1051F/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1051F" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1051F/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="118D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/118D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 118D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="118D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/118D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 118D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="698A">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/698A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 698A"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="698A/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/698A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 698A/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1207C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1207C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1207C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1207C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1207C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1207C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="607B">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/607B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 607B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="607B/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/607B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 607B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1842C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1842C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1842C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1842C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1842C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1842C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="835D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/835D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 835D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="835D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/835D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 835D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1525C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1525C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1525C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1525C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1525C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1525C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1509C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1509C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1509C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1509C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1509C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1509C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="103886E">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/103886E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 103886E"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="103886E/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/103886E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 103886E/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1637D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1637D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1637D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1637D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1637D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1637D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="103886L">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/103886L" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 103886L"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="103886L/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/103886L" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 103886L/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="597C">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/597C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 597C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="597C/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/597C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 597C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="597C_2">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/597C_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 597C_2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="597C_2/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/597C_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 597C_2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1942D">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1942D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1942D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1942D/fast">
+				<Option output="/Users/melissa/cp_problems/cf/cmake-build-debug/1942D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/aarch64-apple-darwin23"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/../../../../../../include/c++/14/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/14.1.0_2/bin/../lib/gcc/current/gcc/aarch64-apple-darwin23/14/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 1942D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/melissa/cp_problems/cf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/melissa/cp_problems/cf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/melissa/cp_problems/cf/101102D.cpp">
+			<Option target="101102D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/103886E.cpp">
+			<Option target="103886E"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/103886L.cpp">
+			<Option target="103886L"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1051F.cpp">
+			<Option target="1051F"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1082E.cpp">
+			<Option target="1082E"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/118D.cpp">
+			<Option target="118D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1207C.cpp">
+			<Option target="1207C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1385E.cpp">
+			<Option target="1385E"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1418C.cpp">
+			<Option target="1418C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1509C.cpp">
+			<Option target="1509C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1513D.cpp">
+			<Option target="1513D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1525C.cpp">
+			<Option target="1525C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1627E.cpp">
+			<Option target="1627E"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1627E_2.cpp">
+			<Option target="1627E_2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1627E_3.cpp">
+			<Option target="1627E_3.cpp"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1637D.cpp">
+			<Option target="1637D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1842C.cpp">
+			<Option target="1842C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1926A.cpp">
+			<Option target="1926A"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1926B.cpp">
+			<Option target="1926B"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1926C.cpp">
+			<Option target="1926C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1942D.cpp">
+			<Option target="1942D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1950A.cpp">
+			<Option target="1950A"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1950B.cpp">
+			<Option target="1950B"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1950C.cpp">
+			<Option target="1950C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1950D.cpp">
+			<Option target="1950D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1995A.cpp">
+			<Option target="1995A"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1995B1.cpp">
+			<Option target="1995B1"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1995B1_2.cpp">
+			<Option target="1995B1_2"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/1995D.cpp">
+			<Option target="1995D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/453B.cpp">
+			<Option target="453B"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/472D.cpp">
+			<Option target="472D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/510C.cpp">
+			<Option target="510C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/597C.cpp">
+			<Option target="597C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/597C_2.cpp">
+			<Option target="597C_2"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/607B.cpp">
+			<Option target="607B"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/687C.cpp">
+			<Option target="687C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/698A.cpp">
+			<Option target="698A"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/835D.cpp">
+			<Option target="835D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/837D.cpp">
+			<Option target="837D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/919D.cpp">
+			<Option target="919D"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/B.cpp">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/C.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/main.cpp">
+			<Option target="cf"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/cf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

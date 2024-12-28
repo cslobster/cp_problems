@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kattis",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kattis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kattis-Debug-7b723e44789ddbbc0926.json",
+					"name" : "kattis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "megainversions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-megainversions-Debug-61e180778a9bd5ebfc51.json",
+					"name" : "megainversions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quantumsuperposition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quantumsuperposition-Debug-5aa9297f11565f27fe42.json",
+					"name" : "quantumsuperposition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "railway2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-railway2-Debug-5af61712734f63516f6e.json",
+					"name" : "railway2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "railway2_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-railway2_2-Debug-ab1c22c0977d8247a321.json",
+					"name" : "railway2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotturtles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotturtles-Debug-3e2a6cf622913cbf8564.json",
+					"name" : "robotturtles",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/melissa/cp_problems/kattis/cmake-build-debug",
+		"source" : "/Users/melissa/cp_problems/kattis"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

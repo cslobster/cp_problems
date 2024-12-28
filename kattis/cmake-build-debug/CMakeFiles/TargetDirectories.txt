@@ -1,0 +1,8 @@
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/kattis.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/megainversions.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/quantumsuperposition.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/robotturtles.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/railway2.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/railway2_2.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melissa/cp_problems/kattis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcses.a CMakeFiles/cses.dir/library.cpp.o
+/usr/bin/ranlib libcses.a

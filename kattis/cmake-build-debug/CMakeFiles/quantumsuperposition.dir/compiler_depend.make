@@ -1,0 +1,2 @@
+# Empty compiler generated dependencies file for quantumsuperposition.
+# This may be replaced when dependencies are built.

@@ -1,0 +1,11 @@
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/main.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p1.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p1_2.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p2.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p2_2.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p3.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p3_2.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/p2_3.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/test.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melissa/cp_problems/gold24/cmake-build-debug/CMakeFiles/rebuild_cache.dir

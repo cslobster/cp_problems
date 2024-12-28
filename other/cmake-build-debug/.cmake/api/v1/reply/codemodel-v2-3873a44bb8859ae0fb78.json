@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "other",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1689::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1689-Debug-3518723b6a70b14e8134.json",
+					"name" : "1689",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1954::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1954-Debug-d14692b6c8a14808708f.json",
+					"name" : "1954",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "infoarena_rangemode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-infoarena_rangemode-Debug-7d87355cae445e305157.json",
+					"name" : "infoarena_rangemode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kilonova_2642::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kilonova_2642-Debug-5923e2167b9c8b330977.json",
+					"name" : "kilonova_2642",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "other::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-other-Debug-37f65c838d3b8fb97f72.json",
+					"name" : "other",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/melissa/cp_problems/other/cmake-build-debug",
+		"source" : "/Users/melissa/cp_problems/other"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,5 @@
+/Users/melissa/cp_problems/ojuz/cmake-build-debug/CMakeFiles/ojuz.dir
+/Users/melissa/cp_problems/ojuz/cmake-build-debug/CMakeFiles/NOI18_knapsack.dir
+/Users/melissa/cp_problems/ojuz/cmake-build-debug/CMakeFiles/NOI18_knapsack2.dir
+/Users/melissa/cp_problems/ojuz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melissa/cp_problems/ojuz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

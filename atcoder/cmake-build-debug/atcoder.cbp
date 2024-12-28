@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="atcoder"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc197_f">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/abc197_f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc197_f"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc197_f/fast">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/abc197_f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc197_f/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dp_v">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/dp_v" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 dp_v"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dp_v/fast">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/dp_v" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 dp_v/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arc084_b">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/arc084_b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 arc084_b"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arc084_b/fast">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/arc084_b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 arc084_b/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dp_o">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/dp_o" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 dp_o"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dp_o/fast">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/dp_o" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 dp_o/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc321f">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/abc321f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc321f"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc321f/fast">
+				<Option output="/Users/melissa/cp_problems/atcoder/cmake-build-debug/abc321f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/melissa/cp_problems/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc321f/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/melissa/cp_problems/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/melissa/cp_problems/atcoder/abc197_f.cpp">
+			<Option target="abc197_f"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/atcoder/abc321f.cpp">
+			<Option target="abc321f"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/atcoder/arc084_b.cpp">
+			<Option target="arc084_b"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/atcoder/dp_o.cpp">
+			<Option target="dp_o"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/atcoder/dp_v.cpp">
+			<Option target="dp_v"/>
+		</Unit>
+		<Unit filename="/Users/melissa/cp_problems/atcoder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

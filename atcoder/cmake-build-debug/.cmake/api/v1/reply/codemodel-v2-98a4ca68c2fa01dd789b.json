@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "atcoder",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "abc197_f::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abc197_f-Debug-51ce64f539dad4fb17e1.json",
+					"name" : "abc197_f",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "abc267_f::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abc267_f-Debug-bb8572f570fc4f856222.json",
+					"name" : "abc267_f",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "abc282_e::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abc282_e-Debug-7fb1962534c90b2fcd4c.json",
+					"name" : "abc282_e",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "abc321f::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abc321f-Debug-15247facd3d3f63de35d.json",
+					"name" : "abc321f",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "arc084_b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arc084_b-Debug-5dc16b6a3e9dc2c64f2f.json",
+					"name" : "arc084_b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dp_o::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dp_o-Debug-29f672dea4b40d1df17b.json",
+					"name" : "dp_o",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dp_v::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dp_v-Debug-1cd6b91809c31ff0f3dc.json",
+					"name" : "dp_v",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/melissa/cp_problems/atcoder/cmake-build-debug",
+		"source" : "/Users/melissa/cp_problems/atcoder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
