@@ -3,8 +3,8 @@ using namespace std;
 
 const int MXN = 1e3 + 3, MXM = 1e6 + 6;
 
-int dy[4] = {0, 0, -1, 1};
 int dx[4] = {-1, 1, 0, 0};
+int dy[4] = {0, 0, -1, 1};
 
 int c, n, k;
 int cnt[MXN][MXN], mxcnt;
