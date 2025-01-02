@@ -41,5 +41,12 @@
 /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/597C.dir
 /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/597C_2.dir
 /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1942D.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1902D.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1856E1.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1856E2.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/105012J.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1955H.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1215E.dir
+/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/1606E.dir
 /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

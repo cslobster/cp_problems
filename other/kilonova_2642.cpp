@@ -11,7 +11,9 @@ int cnt[MXN][MXN], mxcnt;
 array<int, 2> nxt[MXN][MXN];
 int id[MXN][MXN]; // cycle id current node is on
 int sz[MXM]; // sizes of cycles
+array<int, 2> up[MXM][MXN][20]; // sizes of cycles
 int dist[MXN][MXN]; // distance from cycle
+bool treeRoot[MXN][MXN];
 int ii = 1; // current cycle id
 vector<array<int, 2>> pre[MXN][MXN];
 
@@ -32,6 +34,7 @@ int main() {
         cout << mxcnt << endl;
         return 0;
     }
+    queue<pair<int, int>> qq;
     // locate cycles!
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
@@ -58,6 +61,9 @@ int main() {
                 auto &[x, y] = q.front();
                 q.pop();
                 id[x][y] = ii;
+                if (dist[x][y] == 0 && pre[x][y].size() > 0) {
+                    treeRoot[x][y] = true;
+                }
                 for (auto &[cx, cy] : pre[x][y]) {
                     if (dist[cx][cy] == -1) {
                         dist[cx][cy] = dist[x][y] + 1;

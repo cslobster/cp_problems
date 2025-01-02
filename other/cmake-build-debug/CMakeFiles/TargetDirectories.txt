@@ -3,5 +3,14 @@
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/1689.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/infoarena_rangemode.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_2642.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_2165.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_0619.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_0076.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_939.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_2111.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_0153.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_2290.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/aaa.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_0076_2.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/rebuild_cache.dir

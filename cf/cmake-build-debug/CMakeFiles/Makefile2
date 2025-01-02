@@ -106,6 +106,13 @@ all: CMakeFiles/103886L.dir/all
 all: CMakeFiles/597C.dir/all
 all: CMakeFiles/597C_2.dir/all
 all: CMakeFiles/1942D.dir/all
+all: CMakeFiles/1902D.dir/all
+all: CMakeFiles/1856E1.dir/all
+all: CMakeFiles/1856E2.dir/all
+all: CMakeFiles/105012J.dir/all
+all: CMakeFiles/1955H.dir/all
+all: CMakeFiles/1215E.dir/all
+all: CMakeFiles/1606E.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -156,6 +163,13 @@ clean: CMakeFiles/103886L.dir/clean
 clean: CMakeFiles/597C.dir/clean
 clean: CMakeFiles/597C_2.dir/clean
 clean: CMakeFiles/1942D.dir/clean
+clean: CMakeFiles/1902D.dir/clean
+clean: CMakeFiles/1856E1.dir/clean
+clean: CMakeFiles/1856E2.dir/clean
+clean: CMakeFiles/105012J.dir/clean
+clean: CMakeFiles/1955H.dir/clean
+clean: CMakeFiles/1215E.dir/clean
+clean: CMakeFiles/1606E.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -165,7 +179,7 @@ clean: CMakeFiles/1942D.dir/clean
 CMakeFiles/cf.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cf.dir/build.make CMakeFiles/cf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cf.dir/build.make CMakeFiles/cf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=85,86 "Built target cf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=99,100 "Built target cf"
 .PHONY : CMakeFiles/cf.dir/all
 
 # Build rule for subdir invocation for target.
@@ -191,7 +205,7 @@ CMakeFiles/cf.dir/clean:
 CMakeFiles/1926A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1926A.dir/build.make CMakeFiles/1926A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1926A.dir/build.make CMakeFiles/1926A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 1926A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target 1926A"
 .PHONY : CMakeFiles/1926A.dir/all
 
 # Build rule for subdir invocation for target.
@@ -217,7 +231,7 @@ CMakeFiles/1926A.dir/clean:
 CMakeFiles/1926B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1926B.dir/build.make CMakeFiles/1926B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1926B.dir/build.make CMakeFiles/1926B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target 1926B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target 1926B"
 .PHONY : CMakeFiles/1926B.dir/all
 
 # Build rule for subdir invocation for target.
@@ -243,7 +257,7 @@ CMakeFiles/1926B.dir/clean:
 CMakeFiles/1926C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1926C.dir/build.make CMakeFiles/1926C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1926C.dir/build.make CMakeFiles/1926C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target 1926C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target 1926C"
 .PHONY : CMakeFiles/1926C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -269,7 +283,7 @@ CMakeFiles/1926C.dir/clean:
 CMakeFiles/1950A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950A.dir/build.make CMakeFiles/1950A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950A.dir/build.make CMakeFiles/1950A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 1950A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target 1950A"
 .PHONY : CMakeFiles/1950A.dir/all
 
 # Build rule for subdir invocation for target.
@@ -295,7 +309,7 @@ CMakeFiles/1950A.dir/clean:
 CMakeFiles/1950B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950B.dir/build.make CMakeFiles/1950B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950B.dir/build.make CMakeFiles/1950B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target 1950B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target 1950B"
 .PHONY : CMakeFiles/1950B.dir/all
 
 # Build rule for subdir invocation for target.
@@ -321,7 +335,7 @@ CMakeFiles/1950B.dir/clean:
 CMakeFiles/1950C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950C.dir/build.make CMakeFiles/1950C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950C.dir/build.make CMakeFiles/1950C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target 1950C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target 1950C"
 .PHONY : CMakeFiles/1950C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -347,7 +361,7 @@ CMakeFiles/1950C.dir/clean:
 CMakeFiles/1950D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950D.dir/build.make CMakeFiles/1950D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1950D.dir/build.make CMakeFiles/1950D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target 1950D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target 1950D"
 .PHONY : CMakeFiles/1950D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -373,7 +387,7 @@ CMakeFiles/1950D.dir/clean:
 CMakeFiles/453B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/453B.dir/build.make CMakeFiles/453B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/453B.dir/build.make CMakeFiles/453B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target 453B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=73,74 "Built target 453B"
 .PHONY : CMakeFiles/453B.dir/all
 
 # Build rule for subdir invocation for target.
@@ -399,7 +413,7 @@ CMakeFiles/453B.dir/clean:
 CMakeFiles/1418C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1418C.dir/build.make CMakeFiles/1418C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1418C.dir/build.make CMakeFiles/1418C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 1418C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target 1418C"
 .PHONY : CMakeFiles/1418C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -425,7 +439,7 @@ CMakeFiles/1418C.dir/clean:
 CMakeFiles/1082E.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1082E.dir/build.make CMakeFiles/1082E.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1082E.dir/build.make CMakeFiles/1082E.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 1082E"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 1082E"
 .PHONY : CMakeFiles/1082E.dir/all
 
 # Build rule for subdir invocation for target.
@@ -451,7 +465,7 @@ CMakeFiles/1082E.dir/clean:
 CMakeFiles/919D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/919D.dir/build.make CMakeFiles/919D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/919D.dir/build.make CMakeFiles/919D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target 919D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=93,94 "Built target 919D"
 .PHONY : CMakeFiles/919D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -477,7 +491,7 @@ CMakeFiles/919D.dir/clean:
 CMakeFiles/510C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/510C.dir/build.make CMakeFiles/510C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/510C.dir/build.make CMakeFiles/510C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target 510C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target 510C"
 .PHONY : CMakeFiles/510C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -503,7 +517,7 @@ CMakeFiles/510C.dir/clean:
 CMakeFiles/1385E.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1385E.dir/build.make CMakeFiles/1385E.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1385E.dir/build.make CMakeFiles/1385E.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 1385E"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 1385E"
 .PHONY : CMakeFiles/1385E.dir/all
 
 # Build rule for subdir invocation for target.
@@ -529,7 +543,7 @@ CMakeFiles/1385E.dir/clean:
 CMakeFiles/1627E.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1627E.dir/build.make CMakeFiles/1627E.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1627E.dir/build.make CMakeFiles/1627E.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 1627E"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target 1627E"
 .PHONY : CMakeFiles/1627E.dir/all
 
 # Build rule for subdir invocation for target.
@@ -555,7 +569,7 @@ CMakeFiles/1627E.dir/clean:
 CMakeFiles/1627E_2.cpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1627E_2.cpp.dir/build.make CMakeFiles/1627E_2.cpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1627E_2.cpp.dir/build.make CMakeFiles/1627E_2.cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 1627E_2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 1627E_2.cpp"
 .PHONY : CMakeFiles/1627E_2.cpp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -581,7 +595,7 @@ CMakeFiles/1627E_2.cpp.dir/clean:
 CMakeFiles/1627E_3.cpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1627E_3.cpp.dir/build.make CMakeFiles/1627E_3.cpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1627E_3.cpp.dir/build.make CMakeFiles/1627E_3.cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 1627E_3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 1627E_3.cpp"
 .PHONY : CMakeFiles/1627E_3.cpp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -607,7 +621,7 @@ CMakeFiles/1627E_3.cpp.dir/clean:
 CMakeFiles/472D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/472D.dir/build.make CMakeFiles/472D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/472D.dir/build.make CMakeFiles/472D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target 472D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target 472D"
 .PHONY : CMakeFiles/472D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -633,7 +647,7 @@ CMakeFiles/472D.dir/clean:
 CMakeFiles/1513D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1513D.dir/build.make CMakeFiles/1513D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1513D.dir/build.make CMakeFiles/1513D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target 1513D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 1513D"
 .PHONY : CMakeFiles/1513D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -685,7 +699,7 @@ CMakeFiles/101102D.dir/clean:
 CMakeFiles/837D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/837D.dir/build.make CMakeFiles/837D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/837D.dir/build.make CMakeFiles/837D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target 837D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=91,92 "Built target 837D"
 .PHONY : CMakeFiles/837D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -711,7 +725,7 @@ CMakeFiles/837D.dir/clean:
 CMakeFiles/1995A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995A.dir/build.make CMakeFiles/1995A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995A.dir/build.make CMakeFiles/1995A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target 1995A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target 1995A"
 .PHONY : CMakeFiles/1995A.dir/all
 
 # Build rule for subdir invocation for target.
@@ -737,7 +751,7 @@ CMakeFiles/1995A.dir/clean:
 CMakeFiles/1995B1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995B1.dir/build.make CMakeFiles/1995B1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995B1.dir/build.make CMakeFiles/1995B1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target 1995B1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=67,68 "Built target 1995B1"
 .PHONY : CMakeFiles/1995B1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -763,7 +777,7 @@ CMakeFiles/1995B1.dir/clean:
 CMakeFiles/1995B1_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995B1_2.dir/build.make CMakeFiles/1995B1_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995B1_2.dir/build.make CMakeFiles/1995B1_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target 1995B1_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target 1995B1_2"
 .PHONY : CMakeFiles/1995B1_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -789,7 +803,7 @@ CMakeFiles/1995B1_2.dir/clean:
 CMakeFiles/1995D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995D.dir/build.make CMakeFiles/1995D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1995D.dir/build.make CMakeFiles/1995D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target 1995D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=71,72 "Built target 1995D"
 .PHONY : CMakeFiles/1995D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -815,7 +829,7 @@ CMakeFiles/1995D.dir/clean:
 CMakeFiles/687C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/687C.dir/build.make CMakeFiles/687C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/687C.dir/build.make CMakeFiles/687C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=71,72 "Built target 687C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=85,86 "Built target 687C"
 .PHONY : CMakeFiles/687C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -841,7 +855,7 @@ CMakeFiles/687C.dir/clean:
 CMakeFiles/1051F.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1051F.dir/build.make CMakeFiles/1051F.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1051F.dir/build.make CMakeFiles/1051F.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 1051F"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 1051F"
 .PHONY : CMakeFiles/1051F.dir/all
 
 # Build rule for subdir invocation for target.
@@ -867,7 +881,7 @@ CMakeFiles/1051F.dir/clean:
 CMakeFiles/B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=95,96 "Built target B"
 .PHONY : CMakeFiles/B.dir/all
 
 # Build rule for subdir invocation for target.
@@ -893,7 +907,7 @@ CMakeFiles/B.dir/clean:
 CMakeFiles/C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=97,98 "Built target C"
 .PHONY : CMakeFiles/C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -919,7 +933,7 @@ CMakeFiles/C.dir/clean:
 CMakeFiles/118D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/118D.dir/build.make CMakeFiles/118D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/118D.dir/build.make CMakeFiles/118D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 118D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 118D"
 .PHONY : CMakeFiles/118D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -945,7 +959,7 @@ CMakeFiles/118D.dir/clean:
 CMakeFiles/698A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/698A.dir/build.make CMakeFiles/698A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/698A.dir/build.make CMakeFiles/698A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=73,74 "Built target 698A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=87,88 "Built target 698A"
 .PHONY : CMakeFiles/698A.dir/all
 
 # Build rule for subdir invocation for target.
@@ -971,7 +985,7 @@ CMakeFiles/698A.dir/clean:
 CMakeFiles/1207C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1207C.dir/build.make CMakeFiles/1207C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1207C.dir/build.make CMakeFiles/1207C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 1207C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 1207C"
 .PHONY : CMakeFiles/1207C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -997,7 +1011,7 @@ CMakeFiles/1207C.dir/clean:
 CMakeFiles/607B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/607B.dir/build.make CMakeFiles/607B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/607B.dir/build.make CMakeFiles/607B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target 607B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target 607B"
 .PHONY : CMakeFiles/607B.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1023,7 +1037,7 @@ CMakeFiles/607B.dir/clean:
 CMakeFiles/1842C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1842C.dir/build.make CMakeFiles/1842C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1842C.dir/build.make CMakeFiles/1842C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 1842C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target 1842C"
 .PHONY : CMakeFiles/1842C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1049,7 +1063,7 @@ CMakeFiles/1842C.dir/clean:
 CMakeFiles/835D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/835D.dir/build.make CMakeFiles/835D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/835D.dir/build.make CMakeFiles/835D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target 835D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=89,90 "Built target 835D"
 .PHONY : CMakeFiles/835D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1075,7 +1089,7 @@ CMakeFiles/835D.dir/clean:
 CMakeFiles/1525C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1525C.dir/build.make CMakeFiles/1525C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1525C.dir/build.make CMakeFiles/1525C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 1525C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 1525C"
 .PHONY : CMakeFiles/1525C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1101,7 +1115,7 @@ CMakeFiles/1525C.dir/clean:
 CMakeFiles/1509C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1509C.dir/build.make CMakeFiles/1509C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1509C.dir/build.make CMakeFiles/1509C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 1509C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 1509C"
 .PHONY : CMakeFiles/1509C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1153,7 +1167,7 @@ CMakeFiles/103886E.dir/clean:
 CMakeFiles/1637D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1637D.dir/build.make CMakeFiles/1637D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1637D.dir/build.make CMakeFiles/1637D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target 1637D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target 1637D"
 .PHONY : CMakeFiles/1637D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1205,7 +1219,7 @@ CMakeFiles/103886L.dir/clean:
 CMakeFiles/597C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/597C.dir/build.make CMakeFiles/597C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/597C.dir/build.make CMakeFiles/597C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target 597C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target 597C"
 .PHONY : CMakeFiles/597C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1231,7 +1245,7 @@ CMakeFiles/597C.dir/clean:
 CMakeFiles/597C_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/597C_2.dir/build.make CMakeFiles/597C_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/597C_2.dir/build.make CMakeFiles/597C_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=67,68 "Built target 597C_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target 597C_2"
 .PHONY : CMakeFiles/597C_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1257,7 +1271,7 @@ CMakeFiles/597C_2.dir/clean:
 CMakeFiles/1942D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1942D.dir/build.make CMakeFiles/1942D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1942D.dir/build.make CMakeFiles/1942D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 1942D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target 1942D"
 .PHONY : CMakeFiles/1942D.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1275,6 +1289,188 @@ CMakeFiles/1942D.dir/rule: cmake_check_build_system
 CMakeFiles/1942D.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1942D.dir/build.make CMakeFiles/1942D.dir/clean
 .PHONY : CMakeFiles/1942D.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1902D.dir
+
+# All Build rule for target.
+CMakeFiles/1902D.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1902D.dir/build.make CMakeFiles/1902D.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1902D.dir/build.make CMakeFiles/1902D.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target 1902D"
+.PHONY : CMakeFiles/1902D.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1902D.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1902D.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1902D.dir/rule
+
+# Convenience name for target.
+1902D: CMakeFiles/1902D.dir/rule
+.PHONY : 1902D
+
+# clean rule for target.
+CMakeFiles/1902D.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1902D.dir/build.make CMakeFiles/1902D.dir/clean
+.PHONY : CMakeFiles/1902D.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1856E1.dir
+
+# All Build rule for target.
+CMakeFiles/1856E1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1856E1.dir/build.make CMakeFiles/1856E1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1856E1.dir/build.make CMakeFiles/1856E1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 1856E1"
+.PHONY : CMakeFiles/1856E1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1856E1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1856E1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1856E1.dir/rule
+
+# Convenience name for target.
+1856E1: CMakeFiles/1856E1.dir/rule
+.PHONY : 1856E1
+
+# clean rule for target.
+CMakeFiles/1856E1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1856E1.dir/build.make CMakeFiles/1856E1.dir/clean
+.PHONY : CMakeFiles/1856E1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1856E2.dir
+
+# All Build rule for target.
+CMakeFiles/1856E2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1856E2.dir/build.make CMakeFiles/1856E2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1856E2.dir/build.make CMakeFiles/1856E2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 1856E2"
+.PHONY : CMakeFiles/1856E2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1856E2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1856E2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1856E2.dir/rule
+
+# Convenience name for target.
+1856E2: CMakeFiles/1856E2.dir/rule
+.PHONY : 1856E2
+
+# clean rule for target.
+CMakeFiles/1856E2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1856E2.dir/build.make CMakeFiles/1856E2.dir/clean
+.PHONY : CMakeFiles/1856E2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/105012J.dir
+
+# All Build rule for target.
+CMakeFiles/105012J.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/105012J.dir/build.make CMakeFiles/105012J.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/105012J.dir/build.make CMakeFiles/105012J.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 105012J"
+.PHONY : CMakeFiles/105012J.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/105012J.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/105012J.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/105012J.dir/rule
+
+# Convenience name for target.
+105012J: CMakeFiles/105012J.dir/rule
+.PHONY : 105012J
+
+# clean rule for target.
+CMakeFiles/105012J.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/105012J.dir/build.make CMakeFiles/105012J.dir/clean
+.PHONY : CMakeFiles/105012J.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1955H.dir
+
+# All Build rule for target.
+CMakeFiles/1955H.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1955H.dir/build.make CMakeFiles/1955H.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1955H.dir/build.make CMakeFiles/1955H.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target 1955H"
+.PHONY : CMakeFiles/1955H.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1955H.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1955H.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1955H.dir/rule
+
+# Convenience name for target.
+1955H: CMakeFiles/1955H.dir/rule
+.PHONY : 1955H
+
+# clean rule for target.
+CMakeFiles/1955H.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1955H.dir/build.make CMakeFiles/1955H.dir/clean
+.PHONY : CMakeFiles/1955H.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1215E.dir
+
+# All Build rule for target.
+CMakeFiles/1215E.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1215E.dir/build.make CMakeFiles/1215E.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1215E.dir/build.make CMakeFiles/1215E.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 1215E"
+.PHONY : CMakeFiles/1215E.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1215E.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1215E.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1215E.dir/rule
+
+# Convenience name for target.
+1215E: CMakeFiles/1215E.dir/rule
+.PHONY : 1215E
+
+# clean rule for target.
+CMakeFiles/1215E.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1215E.dir/build.make CMakeFiles/1215E.dir/clean
+.PHONY : CMakeFiles/1215E.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1606E.dir
+
+# All Build rule for target.
+CMakeFiles/1606E.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1606E.dir/build.make CMakeFiles/1606E.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1606E.dir/build.make CMakeFiles/1606E.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 1606E"
+.PHONY : CMakeFiles/1606E.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1606E.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1606E.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/melissa/cp_problems/cf/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1606E.dir/rule
+
+# Convenience name for target.
+1606E: CMakeFiles/1606E.dir/rule
+.PHONY : 1606E
+
+# clean rule for target.
+CMakeFiles/1606E.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1606E.dir/build.make CMakeFiles/1606E.dir/clean
+.PHONY : CMakeFiles/1606E.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

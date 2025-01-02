@@ -1,0 +1,1 @@
+/opt/homebrew/bin/g++-14 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/105012J.dir/105012J.cpp.o -o 105012J 
