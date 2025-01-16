@@ -474,6 +474,99 @@ build kilonova_0076_2: CXX_EXECUTABLE_LINKER__kilonova_0076_2_Debug CMakeFiles/k
   TARGET_FILE = kilonova_0076_2
   TARGET_PDB = kilonova_0076_2.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target dmoj_apio12p1
+
+
+#############################################
+# Order-only phony target for dmoj_apio12p1
+
+build cmake_object_order_depends_target_dmoj_apio12p1: phony || CMakeFiles/dmoj_apio12p1.dir
+
+build CMakeFiles/dmoj_apio12p1.dir/dmoj_apio12p1.cpp.o: CXX_COMPILER__dmoj_apio12p1_unscanned_Debug /Users/melissa/cp_problems/other/dmoj_apio12p1.cpp || cmake_object_order_depends_target_dmoj_apio12p1
+  DEP_FILE = CMakeFiles/dmoj_apio12p1.dir/dmoj_apio12p1.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/dmoj_apio12p1.dir
+  OBJECT_FILE_DIR = CMakeFiles/dmoj_apio12p1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target dmoj_apio12p1
+
+
+#############################################
+# Link the executable dmoj_apio12p1
+
+build dmoj_apio12p1: CXX_EXECUTABLE_LINKER__dmoj_apio12p1_Debug CMakeFiles/dmoj_apio12p1.dir/dmoj_apio12p1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/dmoj_apio12p1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = dmoj_apio12p1
+  TARGET_PDB = dmoj_apio12p1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target dmoj_ccc21s5
+
+
+#############################################
+# Order-only phony target for dmoj_ccc21s5
+
+build cmake_object_order_depends_target_dmoj_ccc21s5: phony || CMakeFiles/dmoj_ccc21s5.dir
+
+build CMakeFiles/dmoj_ccc21s5.dir/dmoj_ccc21s5.cpp.o: CXX_COMPILER__dmoj_ccc21s5_unscanned_Debug /Users/melissa/cp_problems/other/dmoj_ccc21s5.cpp || cmake_object_order_depends_target_dmoj_ccc21s5
+  DEP_FILE = CMakeFiles/dmoj_ccc21s5.dir/dmoj_ccc21s5.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/dmoj_ccc21s5.dir
+  OBJECT_FILE_DIR = CMakeFiles/dmoj_ccc21s5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target dmoj_ccc21s5
+
+
+#############################################
+# Link the executable dmoj_ccc21s5
+
+build dmoj_ccc21s5: CXX_EXECUTABLE_LINKER__dmoj_ccc21s5_Debug CMakeFiles/dmoj_ccc21s5.dir/dmoj_ccc21s5.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/dmoj_ccc21s5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = dmoj_ccc21s5
+  TARGET_PDB = dmoj_ccc21s5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target dmoj_ccc21s5_2
+
+
+#############################################
+# Order-only phony target for dmoj_ccc21s5_2
+
+build cmake_object_order_depends_target_dmoj_ccc21s5_2: phony || CMakeFiles/dmoj_ccc21s5_2.dir
+
+build CMakeFiles/dmoj_ccc21s5_2.dir/dmoj_ccc21s5_2.cpp.o: CXX_COMPILER__dmoj_ccc21s5_2_unscanned_Debug /Users/melissa/cp_problems/other/dmoj_ccc21s5_2.cpp || cmake_object_order_depends_target_dmoj_ccc21s5_2
+  DEP_FILE = CMakeFiles/dmoj_ccc21s5_2.dir/dmoj_ccc21s5_2.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/dmoj_ccc21s5_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/dmoj_ccc21s5_2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target dmoj_ccc21s5_2
+
+
+#############################################
+# Link the executable dmoj_ccc21s5_2
+
+build dmoj_ccc21s5_2: CXX_EXECUTABLE_LINKER__dmoj_ccc21s5_2_Debug CMakeFiles/dmoj_ccc21s5_2.dir/dmoj_ccc21s5_2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/dmoj_ccc21s5_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = dmoj_ccc21s5_2
+  TARGET_PDB = dmoj_ccc21s5_2.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -508,7 +601,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/melissa/cp_problems/other/cmake-build-debug
 
-build all: phony other 1954 1689 infoarena_rangemode kilonova_2642 kilonova_2165 kilonova_0619 kilonova_0076 kilonova_939 kilonova_2111 kilonova_0153 kilonova_2290 aaa kilonova_0076_2
+build all: phony other 1954 1689 infoarena_rangemode kilonova_2642 kilonova_2165 kilonova_0619 kilonova_0076 kilonova_939 kilonova_2111 kilonova_0153 kilonova_2290 aaa kilonova_0076_2 dmoj_apio12p1 dmoj_ccc21s5 dmoj_ccc21s5_2
 
 # =============================================================================
 # Built-in targets

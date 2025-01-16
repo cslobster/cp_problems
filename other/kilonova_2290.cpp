@@ -3,7 +3,7 @@ using namespace std;
 
 using ll = long long;
 
-const int MXN = 503, MXM = 2503, MXXX = 4003;
+const int MXN = 503, MXM = 300000, MXXX = 400000;
 
 int n; ll m;
 ll dp[MXXX], t[MXN], p[MXN];

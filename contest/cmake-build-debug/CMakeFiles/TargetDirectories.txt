@@ -1,0 +1,8 @@
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/contest.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/p1.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/p2.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/p3.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/p3_2.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/p3_3.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melissa/cp_problems/contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

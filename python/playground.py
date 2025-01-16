@@ -1,47 +1,63 @@
 import random
 import subprocess
-def generate_input(N, M, max_T, max_P):
-    T = [random.randint(1, max_T) for _ in range(N)]
-    P = [random.randint(1, max_P) for _ in range(N)]
-    return N, M, T, P
+import os
+path = "/Users/melissa/cp_problems//cf/cmake-build-debug/"
+def generate():
+    s = ""
+    n = random.randint(900, 1000)
+    h = random.randint(5, 1000)
+    w = random.randint(5, 1000)
+    s = str(n) + " " + str(h) + " " + str(w) + "\n"
+    for i in range(n):
+        s += str(random.randint(1, h)) + " " + str(random.randint(1, w)) + "\n"
+    f = open(path + "in.in", "w")
+    f.write(s)
 
-def maximize_money(N, M, T, P):
-    # Brute force solution
-    def dfs(remaining_time, current_money, index):
-        if index == N or remaining_time <= 0:
-            return current_money
 
-        # Skip the current job
-        max_money = dfs(remaining_time, current_money, index + 1)
+def redirect_output(executable_path, output_file_path, args=None):
+    try:
+        # Ensure args is a list, even if None
+        args = args or []
 
-        # Take the current job as many times as possible within the remaining time
-        if T[index] <= remaining_time:
-            max_money = max(max_money, dfs(remaining_time - T[index], current_money + P[index], index))
+        # Open the output file in write mode
+        with open(output_file_path, 'w') as output_file:
+            # Run the executable with arguments and redirect its standard output to the file
+            process = subprocess.run([executable_path] + args, stdout=output_file, stderr=subprocess.PIPE)
+            #print(process.stderr.decode())
+        #print(f"Output successfully {output_file_path}")
+    except FileNotFoundError:
+        print(f"Error: The executable '{executable_path}' was not found.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error: The executable returned a non-zero exit code: {e.returncode}")
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
 
-        return max_money
+def files_are_same(file1, file2):
+    try:
+        with open(file1, 'r') as f1, open(file2, 'r') as f2:
+            for line1, line2 in zip(f1, f2):
+                if line1 != line2:
+                    return False
+            # Ensure no extra lines in either file
+            return f1.read() == "" and f2.read() == ""
+    except FileNotFoundError:
+        print("One or both files do not exist.")
+        return False
 
-    return dfs(M, 0, 0)
+def test():
+    generate()
+    outfile1 = path + 'out.out'
+    outfile2 = path + 'golden.out'
+    redirect_output(path + "559C", outfile1, [])
+    redirect_output(path + "cf", outfile2, [])
+    if (not files_are_same(outfile1, outfile2)):
+        return False
+    return True
 
-def main():
-    # Input constraints
-    N = random.randint(1, 10)   # Number of jobs (smaller for brute force)
-    M = random.randint(1, 100)  # Max time Alex can work (smaller for brute force)
-    max_T = 10                  # Max completion time for any job
-    max_P = 100000000                 # Max payment for any job
-
-    # Generate input
-    N, M, T, P = generate_input(N, M, max_T, max_P)
-
-    # Print input
-    print(N, M)
-    print(" ".join(list(map(str,T))))
-    print(" ".join(list(map(str,P))))
-    data = str(N) + " " + str(M) + "\n" + " ".join(list(map(str,T))) + "\n" + " ".join(list(map(str,P))) + "\n"
-    subprocess.run("pbcopy", text=True, input=data)
-
-    # Compute and print output
-    result = maximize_money(N, M, T, P)
-    print("Maximum money Alex can make:", result)
-
-if __name__ == "__main__":
-    main()
+for i in range(1000):
+    if not test():
+        print("WRONG ", i)
+        break
+    else:
+        # print("FINISHED TEST: ", i)
+        continue

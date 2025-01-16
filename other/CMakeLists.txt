@@ -18,3 +18,6 @@ add_executable(kilonova_2290 kilonova_2290.cpp)
 add_executable(aaa aaa.cpp)
 
 add_executable(kilonova_0076_2 kilonova_0076_2.cpp)
+add_executable(dmoj_apio12p1 dmoj_apio12p1.cpp)
+add_executable(dmoj_ccc21s5 dmoj_ccc21s5.cpp)
+add_executable(dmoj_ccc21s5_2 dmoj_ccc21s5_2.cpp)

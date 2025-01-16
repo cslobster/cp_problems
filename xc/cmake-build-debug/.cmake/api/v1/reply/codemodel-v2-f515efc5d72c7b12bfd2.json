@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "xc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "d13p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-d13p1-Debug-d354c7857bfaefb046c4.json",
+					"name" : "d13p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "d13p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-d13p2-Debug-4678ab7b1de3eca67468.json",
+					"name" : "d13p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "d13p3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-d13p3-Debug-8c1ea1a3c2f3eaa33780.json",
+					"name" : "d13p3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "d14p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-d14p1-Debug-0dbb45bf217fd3a4b62c.json",
+					"name" : "d14p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "d14p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-d14p2-Debug-80511a3567a3f412fa84.json",
+					"name" : "d14p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "d14p3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-d14p3-Debug-2a9673d4402aa8a23267.json",
+					"name" : "d14p3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main2-Debug-d1df24cc675f120be7d7.json",
+					"name" : "main2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w18p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w18p1-Debug-39b26abfb62966b7dc03.json",
+					"name" : "w18p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w18p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w18p2-Debug-cbb9b7ed0251439cabf0.json",
+					"name" : "w18p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w18p3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w18p3-Debug-1454dd0220c3528aca55.json",
+					"name" : "w18p3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w18p3_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w18p3_2-Debug-656956acbb81d3dd181d.json",
+					"name" : "w18p3_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w18p3_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w18p3_3-Debug-c998ac03b655d1ac4ccb.json",
+					"name" : "w18p3_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w19p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w19p1-Debug-8aa99f4f4b66c1cf2c5f.json",
+					"name" : "w19p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w19p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w19p2-Debug-dd4ea2aa0b89265e3902.json",
+					"name" : "w19p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w19p2_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w19p2_2-Debug-d2bec5dfe379820dfc08.json",
+					"name" : "w19p2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w19p3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w19p3-Debug-f5a5393f3910c5ed586d.json",
+					"name" : "w19p3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xc-Debug-f9561cd859cc4132ed67.json",
+					"name" : "xc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/melissa/cp_problems/xc/cmake-build-debug",
+		"source" : "/Users/melissa/cp_problems/xc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

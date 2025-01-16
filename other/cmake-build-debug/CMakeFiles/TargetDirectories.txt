@@ -12,5 +12,8 @@
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_2290.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/aaa.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/kilonova_0076_2.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/dmoj_apio12p1.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/dmoj_ccc21s5.dir
+/Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/dmoj_ccc21s5_2.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/melissa/cp_problems/other/cmake-build-debug/CMakeFiles/rebuild_cache.dir
